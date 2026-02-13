@@ -13,8 +13,6 @@
 ---
 
 ## 👨‍💻 About Me
-
-✔ DevOps Engineer 
 ✔ Managed **Microservices Architecture (6 Frontend + 10 Backend + 10 DBs)**  
 ✔ Kubernetes (EKS) Cluster Management  
 ✔ Infrastructure as Code using Terraform  
