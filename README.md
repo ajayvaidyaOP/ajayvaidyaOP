@@ -2,19 +2,19 @@
 <h3 align="center">DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD | GitOps</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ajay-vaidya-69451b242/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+  <a href="https://www.linkedin.com/in/ajay-vaidya-69451b242/" target="_blank">
+    <img src="https://img.icons8.com/color/48/linkedin.png" width="40" />
   </a>
   <a href="mailto:ajayvaidya1@outlook.com">
-    <img src="https://skillicons.dev/icons?i=outlook" />
+    <img src="https://img.icons8.com/color/48/microsoft-outlook-2019.png" width="40" />
   </a>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-✔ DevOps Engineer with **1.5+ Years of Production Experience**  
+✔ DevOps Engineer with **3 Years of Production Experience**  
 ✔ Managed **Microservices Architecture (6 Frontend + 10 Backend + 10 DBs)**  
 ✔ Kubernetes (EKS) Cluster Management  
 ✔ Infrastructure as Code using Terraform  
@@ -25,7 +25,7 @@
 
 ---
 
-# 🏗 Production Architecture Experience
+## 🏗 Production Architecture Experience
 
 - 🌐 Angular apps hosted on S3 + CloudFront  
 - ⚙️ Java backend services deployed on EKS  
@@ -37,74 +37,61 @@
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-## ☁️ Cloud & Infra
+### ☁️ Cloud & Infrastructure
 <p>
 <img src="https://skillicons.dev/icons?i=aws,terraform,linux" />
 </p>
 
-## 🐳 Containers & Orchestration
+### 🐳 Containers & Orchestration
 <p>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,helm" />
 </p>
 
-## 🔁 CI/CD & Automation
+### 🔁 CI/CD & Automation
 <p>
 <img src="https://skillicons.dev/icons?i=jenkins,githubactions,maven,git" />
 </p>
 
-## 📊 Monitoring
+### 📊 Monitoring
 <p>
 <img src="https://skillicons.dev/icons?i=prometheus,grafana" />
 </p>
 
 ---
 
-# 🚀 Featured DevOps Projects
+## 🚀 Featured DevOps Projects
 
-## 🔥 AWS EKS Microservices Deployment
+### 🔥 AWS EKS Microservices Deployment
 
-- Created EKS cluster using Terraform
-- Deployed 10 backend services using Kubernetes manifests
-- Implemented ArgoCD for GitOps
-- Integrated Prometheus & Grafana for monitoring
-- Setup Ingress & Load Balancer
-
----
-
-## 🔥 Complete CI/CD Pipeline
-
-- Jenkins pipeline for automated build & deploy
-- Docker image build & push to registry
-- SonarQube code quality scan
-- Automatic deployment to EKS cluster
+- EKS cluster provisioned using Terraform  
+- 10 backend services deployed via Kubernetes  
+- ArgoCD GitOps deployment  
+- Prometheus & Grafana monitoring  
+- Ingress + LoadBalancer setup  
 
 ---
 
-# 📈 GitHub Analytics
+### 🔥 End-to-End CI/CD Pipeline
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
-</p>
-
----
-
-# 📜 Resume
-
-📄 [https://docs.google.com/document/d/1Th1qsvISsT4b_u-ol4KD3KsY22yJmp8h/edit?usp=sharing&ouid=103982692619762406548&rtpof=true&sd=true](#)
-
+- Jenkins automated pipeline  
+- Docker build & push  
+- SonarQube code quality scan  
+- Auto deployment to EKS  
 
 ---
 
-# 🎯 Current Focus
+## 🎯 Current Focus
 
-- Advanced Kubernetes Scaling
-- DevSecOps Implementation
-- AWS Architecture Optimization
-- High Availability Systems
+- Advanced Kubernetes Scaling  
+- DevSecOps Implementation  
+- AWS Architecture Optimization  
+- High Availability Systems  
 
 ---
+
+⭐ Open to DevOps & Cloud opportunities
+
 
 ⭐ Always open to DevOps & Cloud opportunities
