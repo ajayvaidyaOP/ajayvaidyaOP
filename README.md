@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Ajay Vaidya</h1>
+<h1 align="center">🚀 AJAY VAIDYA</h1>
 <h3 align="center">DevOps Engineer | AWS | Kubernetes | Terraform | CI/CD | GitOps</h3>
 
 <p align="center">
